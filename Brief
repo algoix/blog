@@ -43,7 +43,6 @@ https://quantor.co/math-of-finance/
  - Slicing 
     http://pandas.pydata.org/pandas-docs/stable/indexing.html
     ----https://github.com/algoix/blog/blob/master/building_df.py
-    
  - Incrementally join data for each stock: pandas.DataFrame.join
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.join.html
  - Index and select data by row (dates) and column (symbols)
@@ -51,6 +50,7 @@ https://quantor.co/math-of-finance/
  - Plot multiple stocks at once (still using pandas.DataFrame.plot)
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
     -- df = df / df.ix[0, :] or df = df / df.ix[0] # normalization
+    -- https://github.com/algoix/blog/blob/master/sliced_plot.py
  - Carry out arithmetic operations across stocks
    
 ** Computational Investing
