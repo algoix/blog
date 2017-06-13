@@ -50,7 +50,7 @@ https://quantor.co/math-of-finance/
     http://pandas.pydata.org/pandas-docs/stable/indexing.html
  - Plot multiple stocks at once (still using pandas.DataFrame.plot)
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
-    -- df = df / df.ix[0, :] or df = df / df.ix[0]
+    -- df = df / df.ix[0, :] or df = df / df.ix[0] # normalization
  - Carry out arithmetic operations across stocks
    
 ** Computational Investing
