@@ -34,7 +34,10 @@ def test_run():
     # Get stock data
     df = get_data(symbols, dates)
     print df
-    print df.ix['2010-01-01':'2010-01-31']#slice by row range
+    #print df.ix['2010-01-01':'2010-01-31']#slice by row range
+    #print df['GOOG']#single column
+    #print df[['IBM','GLD']]# a list of multiple columns
+    # print df.ix['2010-01-01':'2010-01-31',['SPY','IBM']]#slice by row and column
 
 if __name__ == "__main__":
     test_run()
