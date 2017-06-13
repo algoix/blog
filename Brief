@@ -30,6 +30,10 @@ http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-pa
 
 
 ** Manupulating Financial Data in Python
+   #Reading and plotting
+ - https://github.com/algoix/blog/blob/master/head-tail.py
+ - https://github.com/algoix/blog/blob/master/mean_vol.py
+ - https://github.com/algoix/blog/blob/master/plot.py
 
 ** Computational Investing
 
