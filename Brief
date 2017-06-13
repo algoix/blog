@@ -40,7 +40,10 @@ http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-pa
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.date_range.html
  - Drop missing date rows: pandas.DataFrame.dropna
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.dropna.html
-    --https://github.com/algoix/blog/blob/master/building_df.py
+ - Slicing 
+    http://pandas.pydata.org/pandas-docs/stable/indexing.html
+    ----https://github.com/algoix/blog/blob/master/building_df.py
+    
  - Incrementally join data for each stock: pandas.DataFrame.join
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.join.html
  - Index and select data by row (dates) and column (symbols)
