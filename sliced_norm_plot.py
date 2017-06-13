@@ -10,6 +10,7 @@ def plot_selected(df, columns, start_index, end_index):
     # TODO: Your code here
     # Note: DO NOT modify anything else!
     df=df[columns]
+    df= normalize_data(df) # normalization
     plot_data(df.ix[start_index:end_index], title="sliced Stock prices")
 
 def symbol_to_path(symbol, base_dir="data"):
@@ -41,6 +42,9 @@ def plot_data(df, title="Stock prices"):
     ax.set_ylabel("Price")
     plt.show()
 
+def normalize_data(df):
+    """ normalization by using first row"""
+    return df/df.ix[0,:]
 
 def test_run():
     # Define a date range
