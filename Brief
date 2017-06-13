@@ -35,7 +35,7 @@ http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-pa
     https://github.com/algoix/blog/blob/master/mean_vol.py
     https://github.com/algoix/blog/blob/master/plot.py
    #Working with multiple stocks
- - Create an empty pandas.DataFrame with dates as index: pandas.date_range
+ - Building Data Frame with dates as index
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.date_range.html
  - Drop missing date rows: pandas.DataFrame.dropna
