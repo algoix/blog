@@ -34,7 +34,7 @@ def test_run():
     # Get stock data
     df = get_data(symbols, dates)
     print df
-
+    print df.ix['2010-01-01':'2010-01-31']#slice by row range
 
 if __name__ == "__main__":
     test_run()
