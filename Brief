@@ -51,6 +51,7 @@ https://quantor.co/math-of-finance/
     http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.plot.html
     -- df = df / df.ix[0, :] or df = df / df.ix[0] # normalization
     -- https://github.com/algoix/blog/blob/master/sliced_norm_plot.py
+    http://ecorner.stanford.edu/videos/1716/The-Importance-of-Selective-Information
  - Carry out arithmetic operations across stocks
    
 ** Computational Investing
