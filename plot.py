@@ -6,6 +6,8 @@ import matplotlib.pyplot as plt
 def test_run():
     df = pd.read_csv("data/IBM.csv")
     #Your code here
+    """ plot High and CLose two columns"""
+    #df[['High','Close']].plot()
     df.High.plot()
     plt.show()  # must be called to show plots
 
