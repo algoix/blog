@@ -74,6 +74,7 @@ http://pandas.pydata.org/pandas-docs/stable/
    # Handling mising data: interpolation, rolling average , 
      http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
        use the 'pad' method, same as 'ffill': fillna(method='pad')
+     -- https://github.com/algoix/blog/blob/master/missing.py  
 ** Computational Investing
 
 ** Learning Algorithms and trading
