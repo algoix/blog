@@ -75,6 +75,11 @@ http://pandas.pydata.org/pandas-docs/stable/
      http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.fillna.html
        use the 'pad' method, same as 'ffill': fillna(method='pad')
      -- https://github.com/algoix/blog/blob/master/missing.py  
+ - Histograms and ScatterPlots
+   # mean, standard deviation and kurtosis
+   # gaussian normal, fat tails, skinny tails
+   
+ 
 ** Computational Investing
 
 ** Learning Algorithms and trading
