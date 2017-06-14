@@ -53,6 +53,21 @@ https://quantor.co/math-of-finance/
     -- https://github.com/algoix/blog/blob/master/sliced_norm_plot.py
     http://ecorner.stanford.edu/videos/1716/The-Importance-of-Selective-Information
  - Carry out arithmetic operations across stocks
+   # Global statistics
+   http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.mean.html
+   http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.median.html
+   http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.std.html
+   http://pandas.pydata.org/pandas-docs/stable/api.html#api-dataframe-stats
+   # Rolling statistic
+   http://pandas.pydata.org/pandas-docs/stable/computation.html?highlight=rolling%20statistics#moving-rolling-statistics-moments
+   http://pandas.pydata.org/pandas-docs/stable/computation.html?highlight=rolling%20statistics#time-aware-rolling
+   # Bollinger Bands: A way of quantifying how far stock price has deviated from some norm.
+
+   # Daily returns: Day-to-day change in stock price.
+   
+   # Technical Analysis
+   --https://github.com/algoix/blog/blob/master/TA.py
+   
    
 ** Computational Investing
 
