@@ -62,7 +62,7 @@ https://quantor.co/math-of-finance/
    http://pandas.pydata.org/pandas-docs/stable/computation.html?highlight=rolling%20statistics#moving-rolling-statistics-moments
    http://pandas.pydata.org/pandas-docs/stable/computation.html?highlight=rolling%20statistics#time-aware-rolling
    # Bollinger Bands: A way of quantifying how far stock price has deviated from some norm.
-
+   --https://github.com/algoix/blog/blob/master/bollinger.py
    # Daily returns: Day-to-day change in stock price.
    
    # Technical Analysis
