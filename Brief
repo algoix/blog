@@ -65,6 +65,7 @@ https://quantor.co/math-of-finance/
    --https://github.com/algoix/blog/blob/master/bollinger.py
    # Daily returns: Day-to-day change in stock price.
    --https://github.com/algoix/blog/blob/master/returns.py
+   # Cumulative return: price[t]/price[0]-1
    # Technical Analysis
    --https://github.com/algoix/blog/blob/master/TA.py
    
