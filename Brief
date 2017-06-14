@@ -64,7 +64,7 @@ https://quantor.co/math-of-finance/
    # Bollinger Bands: A way of quantifying how far stock price has deviated from some norm.
    --https://github.com/algoix/blog/blob/master/bollinger.py
    # Daily returns: Day-to-day change in stock price.
-   
+   --https://github.com/algoix/blog/blob/master/returns.py
    # Technical Analysis
    --https://github.com/algoix/blog/blob/master/TA.py
    
