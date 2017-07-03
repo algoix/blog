@@ -1,5 +1,5 @@
 Introduction to Machine Learning
-
+6 hrs
 
 What is Machine Learning
 Machine Learning: What's the challenge?
