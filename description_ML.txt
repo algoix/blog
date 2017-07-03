@@ -1,0 +1,93 @@
+Introduction to Machine Learning
+
+
+What is Machine Learning
+Machine Learning: What's the challenge?
+Acquainting yourself with the data
+What is, what isn't?
+What is, what isn't? (2)
+Basic prediction model
+Classification, Regression, Clustering
+Classification, regression or clustering?
+Classification: Filtering spam
+Regression: LinkedIn views for the next 3 days
+Clustering: Separating the iris species
+Supervised vs. Unsupervised
+Getting practical with supervised learning
+How to do unsupervised learning (1)
+How to do unsupervised learning (2)
+Tell the difference
+
+Performance measures
+Measuring model performance or error
+The Confusion Matrix
+Deriving ratios from the Confusion Matrix
+The quality of a regression
+Adding complexity to increase quality
+Let's do some clustering!
+What to do with all these performance measures?
+Training set and test set
+Split the sets
+First you train, then you test
+Using Cross Validation
+How many folds?
+Bias and Variance
+Overfitting the spam!
+Increasing the bias
+Interpretability
+
+Classification
+Decision trees
+Learn a decision tree
+Understanding the tree plot
+Classify with the decision tree
+Pruning the tree
+Interpreting the tree
+Splitting criterion
+k-Nearest Neighbors
+Preprocess the data
+The knn() function
+K's choice
+Interpreting a Voronoi diagram
+The ROC curve
+Creating the ROC curve (1)
+Creating the ROC curve (2)
+The area under the curve
+Interpreting the curves
+Comparing the methods
+
+Regression
+Regression: simple and linear!
+Simple linear regression: your first step!
+Performance measure: RMSE
+Performance measures: R-squared
+Another take at regression: be critical
+Non-linear, but still linear?
+Interpreting R-squared
+Multivariable Linear Regression
+Going all-in with predictors!
+Are all predictors relevant?
+Are all predictors relevant? Take 2!
+Interpreting the residuals and p-values
+k-Nearest Neighbors and Generalization
+Does your model generalize?
+Your own k-NN algorithm!
+Parametric vs non-parametric!
+
+Clustering
+Clustering with k-means
+k-means: how well did you do earlier?
+The influence of starting centroids
+Making a scree plot!
+What is your optimal k?
+Performance and scaling issues
+When to standardize your data?
+Standardized vs non-standardized clustering (1)
+Standardized vs non-standardized clustering (2)
+Hierarchical Clustering
+Did you get it all?
+Single Hierarchical Clustering
+Complete Hierarchical Clustering
+Hierarchical vs k-means
+Interpreting Dunn's Index
+Clustering US states based on criminal activity
