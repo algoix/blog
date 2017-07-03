@@ -1,0 +1,65 @@
+Deep Learning in Python
+4 hours
+Basics of deep learning and neural networks
+Introduction to deep learning :
+
+
+Comparing neural network models to classical regression models
+Forward propagation
+Coding the forward propagation algorithm
+Activation functions
+The Rectified Linear Activation Function
+Applying the network to many observations/rows of data
+Deeper networks
+Forward propagation in a deeper network
+Multi-layer neural networks
+Representations are learned
+Levels of representation
+
+Optimizing a neural network with backward propagation
+The need for optimization
+Calculating model errors
+Understanding how weights change model accuracy
+Coding how weight changes affect accuracy
+Scaling up to multiple data points
+Gradient descent
+Calculating slopes
+Improving model weights
+Making multiple updates to weights
+Backpropagation
+The relationship between forward and backward propagation
+Thinking about backward propagation
+Backpropagation in practice
+A round of backpropagation
+
+Building deep learning models with keras :
+
+
+Creating a keras model
+Understanding your data
+Specifying a model
+Compiling and fitting a model
+Compiling the model
+Fitting the model
+Classification models
+Understanding your classification data
+Last steps in classification models
+Using models
+Making predictions
+
+Fine-tuning keras models :
+
+
+Understanding model optimization
+Diagnosing optimization problems
+Changing optimization parameters
+Model validation
+Evaluating model accuracy on validation dataset
+Early stopping: Optimizing the optimization
+Experimenting with wider networks
+Adding layers to a network
+Thinking about model capacity
+Experimenting with model structures
+Stepping up to images
+Building your own digit recognition model
+Final thoughts 
