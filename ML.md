@@ -53,6 +53,11 @@
     data.sort()
     for i in range (0,steps):
         threshold[i]=data[(i+1)*stepsize]
-	
+### Building model
+    Define s,a,r
+    choose in sample training period
+    iterate: Q-table update
+    backtest untill Q table is converged
+    
     
 
