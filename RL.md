@@ -8,6 +8,6 @@
 3.  Algorithm-> Policy iteration and value iteration.
 4.  most of the time T and R are unknown.
 ### Model based RL: Build a model T[s,a,s'] over time  and R[s,a]. We can apply value/policy iteration 
-### Model Free or Q Learning
+### Model Free or Q Learning: sum of gamma discounted rewards 
 
 
