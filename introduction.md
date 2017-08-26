@@ -23,8 +23,8 @@
 #### Pairs Trading
 #### Post earnings announcement drift
 ## AFL for Amibroker
-
-##References
+## Further Reading
+## References
 
 https://www.quantopian.com/lectures
 
