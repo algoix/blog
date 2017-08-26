@@ -20,7 +20,9 @@
 ##### Basics
 ##### Implementing 
 #### Momentum
+#### Pairs Trading
 #### Post earnings announcement drift
+## AFL for Amibroker
 
 ##References
 https://www.quantopian.com/lectures
