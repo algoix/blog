@@ -1,3 +1,13 @@
+# Algorithmic Trading Using Python
+## Basic Python 
+## Python for finance
+## Data Science 
+## Machine Learning Algorithms
+## Deep Learning Algorithms
+## Time Series Analysis
+#### EWMA, ARMA, ARIMA, GARCH
+## Important consepts
+#### Dispersion Trading, Bid Ask Spread, Order Book Dynamics,	Market Microstructure and Concepts, Order Book Dynamics
 ## Automated Execution 
 ## Backtesting
 ## Important parts of a Academic paper and how to build a trading strategy based on them.
