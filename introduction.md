@@ -24,12 +24,25 @@
 
 ##References
 https://www.quantopian.com/lectures
+
 http://learnds.com/
+
 http://www.financial-hacker.com/build-better-strategies-part-4-machine-learning/
+
 https://www.toptal.com/machine-learning/s-p-500-automated-trading
+
 http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf
+
 http://cs229.stanford.edu/proj2013/Taylor-Applying%20Machine%20Learning%20to%20Stock%20Market%20Trading.pdf
+
 http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course
+
 https://www.omscs.gatech.edu/cs-7646-machine-learning-trading
+
 file:///C:/Users/PS/Downloads/2017-WB-2635-RobotWealth-AFrameworkforApplyingMachineLearningtoSystematicTradingv2.pdf
 
+https://www.quantopian.com/lectures/example-kalman-filter-pairs-trade
+
+https://github.com/quantopian/research_public
+
+https://www.quantopian.com/posts/ernie-chans-ewa-slash-ewc-pair-trade-with-kalman-filter
