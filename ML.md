@@ -36,7 +36,7 @@
     note: alpha=learning rate and gamma=discounting rate
     
     The formula for computing Q for any state-action pair <s, a>, given an experience tuple <s, a, s', r>, 
-    is:  Q'[s, a] = (1 - α) · Q[s, a] + α · (r + γ · Q[s', argmaxa'(Q[s', a'])])
+    is:Q'[s, a] = (1 - α) · Q[s, a] + α · (r + γ · Q[s', argmaxa'(Q[s', a'])])
     Here:
 	•	r = R[s, a] is the immediate reward for taking action a in state s,
 	•	γ &in; [0, 1] (gamma) is the discount factor used to progressively reduce the value of future rewards,
@@ -44,5 +44,15 @@
 	•	argmaxa'(Q[s', a']) is the action that maximizes the Q-value among all possible actions a' from s', and,
 	•	α &in; [0, 1] (alpha) is the learning rate used to vary the weight given to new experiences compared with past Q-values.
     
-
+#### Creating the state
+    State is an integer
+    Discretize each factor
+    Combine
+#### Discretize
+    stepsize=size(data)/steps
+    data.sort()
+    for i in range (0,steps):
+        threshold[i]=data[(i+1)*stepsize]
+	
+    
 
