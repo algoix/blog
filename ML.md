@@ -53,14 +53,6 @@
     data.sort()
     for i in range (0,steps):
         threshold[i]=data[(i+1)*stepsize]
-### Building model
-    Define s,a,r
-    choose in sample training period
-    iterate: Q-table update
-    backtest untill Q table is converged
+	
     
-	• Q-Learning can easily be applied to domains where all states and/or transitions are not fully defined.
-	• No additional data structures to store transitions T(s, a, s') or rewards R(s, a).
-	• Q-value for any state-action pair takes into account future rewards. Thus, it encodes both the best possible value of a state (maxa Q(s, a)) as well as the best policy in terms of the action that should be taken (argmaxa Q(s, a)).
-	• The biggest challenge is that the reward (e.g. for buying a stock) often comes in the future - representing that properly requires look-ahead and careful weighting.
-	• Another problem is that taking random actions (such as trades) just to learn a good strategy is not really feasible (you'll end up losing a lot of money!).
+
