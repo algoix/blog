@@ -194,3 +194,6 @@ runfile('C:/Users/mel/Desktop/gatech/ml4t/ML4T_2016Fall/mc3_p1/testlearner.py', 
 headge funds VS mutual funds 
 H: less regulated. 
 M: more regulated. has to declare strategy in prospectus. can advertise and access small investors. 
+
+## References
+https://github.com/paulorauber/rl/tree/master/learning
