@@ -197,3 +197,5 @@ M: more regulated. has to declare strategy in prospectus. can advertise and acce
 
 ## References
 https://github.com/paulorauber/rl/tree/master/learning
+
+https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/node29.html
