@@ -49,3 +49,13 @@ https://www.quantopian.com/lectures/example-kalman-filter-pairs-trade
 https://github.com/quantopian/research_public
 
 https://www.quantopian.com/posts/ernie-chans-ewa-slash-ewc-pair-trade-with-kalman-filter
+
+https://info.cloudquant.com/
+
+https://websim.worldquantchallenge.com/en/cms/wqc/websim/
+
+https://www.quantconnect.com/
+
+https://github.com/QuantConnect
+
+https://www.quantiacs.com/
