@@ -199,3 +199,15 @@ M: more regulated. has to declare strategy in prospectus. can advertise and acce
 https://github.com/paulorauber/rl/tree/master/learning
 
 https://www.cs.cmu.edu/afs/cs/project/jair/pub/volume4/kaelbling96a-html/node29.html
+
+https://github.com/ucaiado/QLearning_Trading
+https://github.com/ShangtongZhang/reinforcement-learning-an-introduction
+https://github.com/ChenglongChen?tab=repositories
+https://github.com/jjakimoto/DQN
+https://github.com/bdanalytics/Trading-Finance
+http://www.jessicayung.com/machine-learning-in-trading-project-takeaways/
+https://www.hihedge.com/
+https://www.kaggle.com/benjibb/lstm-stock-prediction-20170507
+https://doctorj.gitlab.io/sairen/
+https://gitlab.com/doctorj/sairen/
+https://githuber.cn/people/5799436
