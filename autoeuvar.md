@@ -1,4 +1,4 @@
-## Features
+## U Features
 ##### Fuel Type
 Diesel,Petrol,CNG,LPG,Electric
 
@@ -21,8 +21,35 @@ Hatchback,Sedans,MUV,Hybrids,Minivans
 Airbags,Keyless entry,ABC,Remote Fuel lid opener,Alloy wheels
 
 Cruse Control,rear ac vents
+Navigation system
 
 ##### Model Years
 
+## P Features
+look of the Vehicle,exterior design, interior design,  Interior space,
+comfort during long drive
+comfort during short drive
+stearing wheel look, Steering noise
+pick up when ac on
+pick up when ac off
+clutch hard,soft,perfect
+Boot space 
+leg space for rear passengers
+Ground clearnace
+Engine noisy or silent
+vibrations of Gear Rod: minute,no, high
+dealer is making it mandatory to have accessories
+dealer claimed but no intimation from maker
+
+## Rating
+Overall
+Looks
+Performance
+Space/Comfort
+Fuel Economy
+Value For Money
+
+## Ref
+https://www.carwale.com/renault-cars/kwid/userreviews/
 
 
