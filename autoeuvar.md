@@ -2,6 +2,8 @@
 ##### Fuel Type
 Diesel,Petrol,CNG,LPG,Electric
 
+##### My Average Daily Travel
+
 ##### Per KM cost
 
 ##### Transmission
@@ -15,6 +17,8 @@ Hatchback,Sedans,MUV,Hybrids,Minivans
 
 ##### Price range
 
+** Catalogue with picture,price,extra fetures, P features **
+
 ##### Colors
 
 ##### Features
@@ -22,6 +26,8 @@ Airbags,Keyless entry,ABC,Remote Fuel lid opener,Alloy wheels
 
 Cruse Control,rear ac vents
 Navigation system
+
+##### Brand
 
 ##### Model Years
 
@@ -49,7 +55,11 @@ Space/Comfort
 Fuel Economy
 Value For Money
 
+## Latest Car launches
+
+## Upcoming car with prices
+
 ## Ref
 https://www.carwale.com/renault-cars/kwid/userreviews/
-
+https://auto.ndtv.com/research/recommend-cars
 
