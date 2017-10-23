@@ -1,3 +1,6 @@
+**Calculator**
+https://www.cartrade.com/finance/car-loan-emi-calculator
+
 ## U Features
 ##### Fuel Type
 Diesel,Petrol,CNG,LPG,Electric
