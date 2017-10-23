@@ -19,6 +19,32 @@ Hatchback,Sedans,MUV,Hybrids,Minivans
 
 ** Catalogue with picture,price,extra fetures, P features, Tyre size **
 
+    Example
+    ECONOMY
+    Mileage	21.66 kmpl
+    Service Cost	Rs 8,569 /yr
+    Fuel Type	Diesel
+    Fuel Tank	55 Litres	
+    PERFORMANCE
+    Engine	1498 cc 
+    BHP	108.4
+    No. of Cylinders	4
+    No. of Gears	7 Speed	
+    COMFORT
+    Transmission	Automatic
+    Rear AC VentsYes
+    Seating Capacity 5
+    Boot Space460-litres	
+    SAFETY
+    ABSYes
+    Driver AirbagYes
+    Parking SensorYes
+    AirbagsYes	
+    EMI
+    Duration	5 years
+    EMI	Rs 33,357
+
+
 ##### Colors
 
 ##### Features
